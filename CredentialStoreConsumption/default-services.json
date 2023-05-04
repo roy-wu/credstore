@@ -1,0 +1,71 @@
+{
+    "credstore": [
+        {
+            "name": "CredentialStoreServiceInstance",
+            "instance_name": "CredentialStoreServiceInstance",
+            "label": "credstore",
+            "tags": [
+                "credstore",
+                "securestore",
+                "keystore",
+                "credentials",
+                "endpoint:https://api.cf.eu10.hana.ondemand.com",
+                "org:autoqm_org",
+                "space:dev"
+            ],
+            "plan": "standard",
+            "credentials": {
+                "encryption": {
+                    "client_private_key": "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",
+                    "server_public_key": "MIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAhAM+VLLsJRJXZ7jcrO6jWhsBibz4pc+OH7ac9bmEyTCxDLfJzu4YoC+8Xpg+mh2WM1l84DR4smAW5aOACOmisWEanD2PEcttn/mGIlZVQJhQ6MEX2qKxRDbRuhmKT0rPemerEynDbmR0GqKKXFzwK0ZVxllqwDAL1kl89+eJqi9xEka2QaEvn9xJJnWKHHQf0BshL3vjpt4QrcQFZUFMtOjUvRkxDiVXtHpIUWyKdpC2EVUA0LmenFagiwhRMeWTmY+dXuqTDgePpELkCIhDJwaec7zbzQOnd2F4uVWXnnc3Y4dKD+M4gFn5IxIfieT6BAgzRm7NQD0bxRAqOsLT0WEUL3+zmUjtmIc8B/Wd7QLlk4ndlHKxBu/vJn/lJr/Y/ub4Y7S3Clzp0qJdX3tekvYbEATkT9VfxkS7v0kE/7TwKAXBCC7c1tXOCjz5QKqlaH5Fv2+/UvD3x5VlCZvoM5925M0QQvSdTYm7UNupeFHWlAF3uOOyRuMysZYxe+hTAgMBAAE="
+                },
+                "expires_at": "2023-07-02T07:17:29.8Z",
+                "parameters": {
+                    "access_policy": {
+                        "creds_api": "public",
+                        "encryption_api": "public",
+                        "kms_api": "public",
+                        "token_api": "public"
+                    },
+                    "authentication": {
+                        "type": "basic"
+                    },
+                    "authorization": {
+                        "default_permissions": [
+                            "create",
+                            "decrypt",
+                            "delete",
+                            "encrypt",
+                            "info",
+                            "list",
+                            "namespaces",
+                            "read",
+                            "update"
+                        ],
+                        "namespace_permissions": {
+                            "<namespace>": [
+                                "create",
+                                "decrypt",
+                                "delete",
+                                "encrypt",
+                                "list",
+                                "read",
+                                "update"
+                            ]
+                        }
+                    },
+                    "encryption": {
+                        "key": {
+                            "size": 3072
+                        },
+                        "payload": "enabled"
+                    }
+                },
+                "password": "arCrWRxAtFNDtzKaXvDxjTAPtOWE7GolG4N5jfKD3OpoLGPO36NRVGqKbrFsCW2w.0.r4ltDdUVKiFdzQTI0llRfFP8d6E/rxwquFTEcxjsNW0=",
+                "service_key_name": "key",
+                "url": "https://credstore.cfapps.eu10.hana.ondemand.com/api/v1/credentials",
+                "username": "1bbd3849-89f1-4c05-bf73-bc0e85030341.0.P8P6GxgPbQSluWuCcKatoQdvkAX+0ty3QiE0p6WE2Tw="
+            }
+        }
+    ]
+}
